@@ -11,7 +11,7 @@
   "devDependencies": {
     "gulp-sass": "^4.0.2",
     "gulp-sass-glob": "^1.0.9",
-    "node-sass": "^4.10.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "gulp": "^3.9.1",
